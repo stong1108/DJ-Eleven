@@ -3,3 +3,4 @@ music/*
 !music/.gitkeep
 *.pyc
 .DS_Store
+images
