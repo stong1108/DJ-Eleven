@@ -1,5 +1,5 @@
 # DJ Eleven
-This *Stranger Things*-inpsired repo uses face, facial landmark, and hand detection from a live video stream (built-in camera or USB webcam) to control music stored locally. I wrote this program to let kids think they have special powers during Expedia's 2018 Halloween celebration.
+This <b>*Stranger Things*</b>-inspired repo uses face, facial landmark, and hand detection from a live video stream (built-in camera or USB webcam) to control music stored locally. I wrote this program to let kids think they have special powers during Expedia's 2018 Halloween celebration.
 
 ### Controls (works best 1 person at a time)
 **Blink** to advance to next song.<br><br>
