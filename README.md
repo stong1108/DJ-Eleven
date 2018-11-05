@@ -7,7 +7,9 @@ This *Stranger Things*-inpsired repo uses face, facial landmark, and hand detect
 * Works best when camera sees **open hand (palm facing the camera)** and **fingers slightly spread out**.
 * Can try to use both hands if having trouble detecting hands
 
-<img align="center" src="images/music_controls.png">
+<p align="center">
+<img width="400" src="images/music_controls.png">
+</p>
 
 ### Files
 
