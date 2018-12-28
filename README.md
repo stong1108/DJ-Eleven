@@ -35,7 +35,7 @@ Run this script to start DJing!
 * I used this guide to install `dlib`:
     https://www.pyimagesearch.com/2017/03/27/how-to-install-dlib/
 
-* Other guides I consulted:
+* Other references:
 
   https://www.pyimagesearch.com/2017/04/24/eye-blink-detection-opencv-python-dlib/
 
